@@ -75,7 +75,17 @@ If installed with the Debian package:
 
 ## Screenshots
 
-Product screenshots will be added here.
+### Today dashboard
+
+![DeskThread Today dashboard](screenshots/deskthread-today.png)
+
+### Classes
+
+![DeskThread Classes](screenshots/deskthread-classes.png)
+
+### Dark mode
+
+![DeskThread dark mode](screenshots/deskthread-dark.png)
 
 ## Windows
 
