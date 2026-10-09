@@ -81,7 +81,7 @@ If installed with the Debian package:
 </p>
 
 <p align="center">
-  <img src="screenshots/deskthread-dark.png" alt="DeskThread Dark Mode" width="70%">
+  <img src="screenshots/deskthread-dark.png" alt="DeskThread Dark Mode" width="72%">
 </p>
 
 <p align="center">
