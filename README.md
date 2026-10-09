@@ -114,3 +114,18 @@ DeskThread is currently distributed as a compiled application. The application s
 **DeskThread 1.0.0**
 
 Copyright © 2026 Schroeder Appworks.
+
+
+## Screenshots
+
+### Today dashboard
+
+![DeskThread Today dashboard](screenshots/deskthread-today.png)
+
+### Classes
+
+![DeskThread Classes](screenshots/deskthread-classes.png)
+
+### Dark mode
+
+![DeskThread dark mode](screenshots/deskthread-dark.png)
