@@ -75,17 +75,18 @@ If installed with the Debian package:
 
 ## Screenshots
 
-### Today dashboard
+<p align="center">
+  <img src="screenshots/deskthread-today.png" alt="DeskThread Today" width="48%">
+  <img src="screenshots/deskthread-classes.png" alt="DeskThread Classes" width="48%">
+</p>
 
-![DeskThread Today dashboard](screenshots/deskthread-today.png)
+<p align="center">
+  <img src="screenshots/deskthread-dark.png" alt="DeskThread Dark Mode" width="70%">
+</p>
 
-### Classes
-
-![DeskThread Classes](screenshots/deskthread-classes.png)
-
-### Dark mode
-
-![DeskThread dark mode](screenshots/deskthread-dark.png)
+<p align="center">
+  <strong>Today Dashboard · Classes · Dark Mode</strong>
+</p>
 
 ## Windows
 
